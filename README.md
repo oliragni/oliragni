@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Olivia Ragni.
   
 - 👀 I’m interested in hepling companies make business descisions based on data analysis.
+
+- ✨ My professional background includes CRM Management, Content Marketing, Marketing Strategy, Event Planning, Social Media Marketing, Sales, and Project Management. 
   
 - 🌱 I’m currently learning intermediate and advanced SQL analysis.
   
