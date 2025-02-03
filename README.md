@@ -11,6 +11,9 @@
 - 📫 How to reach me: https://www.linkedin.com/in/oliviaragni/
   
 - ⚡ Fun fact: I make wine 🍷
+
+- Portfolio - links to some work I've done: (http://bit.ly/3CyJuU1)
+
 <!---
 oliragni/oliragni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
